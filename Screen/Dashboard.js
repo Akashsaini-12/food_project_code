@@ -1,5 +1,5 @@
 import {View, Text, StyleSheet, Image} from 'react-native';
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 
 
 const Dashboard = () => {
@@ -20,7 +20,7 @@ const Dashboard = () => {
         </View>
         <View>
           <View>
-            <Text>Akash</Text>
+            <Text>Akash saini </Text>
             <Text>akashsaini@gmail.com</Text>
           </View>
         </View>
